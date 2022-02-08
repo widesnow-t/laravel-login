@@ -154,8 +154,8 @@ return [
     */
 
     'attributes' => [
-        'email' => 'メールアドレス' ,
-        'password' => 'パスワード',
+        'title'=>'タイトル',
+        'content'=>'ブログ内容',
     ],
 
 ];
